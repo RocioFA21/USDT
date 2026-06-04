@@ -1,0 +1,16 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "Tether USDT - Official. All rights reserved.",
+    "image": "https://raw.githubusercontent.com/RocioFA21/usdt/main/usdtlogo.svg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "image": "https://raw.githubusercontent.com/RocioFA21/usdt/main/usdtlogo.svg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
